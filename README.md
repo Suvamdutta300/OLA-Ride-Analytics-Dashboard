@@ -56,8 +56,7 @@
 **Dashboard Preview**
 
 ### Overall Dashboard
-OLA-Ride-Analytics-Dashboard/Screenshots
-/Page 1.png
+![image alt](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%201.png)
 
 ### Vehicle Type Analysis
 [![Vehicle Type](screenshots/vehicle_type.png)](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%201.png)
