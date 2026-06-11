@@ -19,6 +19,8 @@
 - Power Query
 - Excel / CSV Dataset
 
+  ---
+
 **Dashboard Pages**
 
 ### 1. Overall Dashboard
@@ -55,6 +57,8 @@
 - Cancellation rate is around 28%.
 - Customer and driver ratings remain close to 4.0 across vehicle categories.
 
+  ---
+
 **Dashboard Preview**
 
 ### Overall Dashboard
@@ -72,13 +76,19 @@
 ### Ratings Analysis
 ![image alt](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%205.png)
 
+---
+
 **Author**
 
 Suvam Dutta
 
 Email : Suvamdutta300@gmail.com
+
 Github : https://github.com/Suvamdutta300
+
 LinkedIn : www.linkedin.com/in/suvam-dutta
+
+---
 
 **If you like this project**
 Give it a ⭐ on GitHub!
