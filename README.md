@@ -63,8 +63,6 @@
 
 **Dashboard Preview**
 
-https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/OLA%20PROJECT.pbix
-
 ### Overall Dashboard
 
 ![image alt](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%201.png)
