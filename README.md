@@ -3,7 +3,7 @@ Project Overview
 
 This project presents an interactive Power BI dashboard developed to analyze OLA ride booking data. The dashboard provides actionable insights into booking trends, revenue generation, ride cancellations, vehicle performance, and customer satisfaction.
 
-Objectives
+#Objectives
 Analyze overall ride bookings
 Track revenue and booking value
 Monitor cancellation patterns
