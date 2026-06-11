@@ -62,10 +62,10 @@
 ![image alt](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%202.png)
 
 ### Revenue Analysis
-![Revenue](screenshots/revenue.png)
+![image alt](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%203.png)
 
 ### Cancellation Analysis
-![Cancellation](screenshots/cancellation.png)
+![Cancellation](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%204.png)
 
 ### Ratings Analysis
 ![Ratings](screenshots/ratings.png)
