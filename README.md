@@ -49,6 +49,8 @@
 - Customer Ratings by Vehicle Type
 - Driver Ratings by Vehicle Type
 
+  ---
+
 **Key Insights**
 
 - Success bookings account for approximately 62% of total rides.
@@ -91,4 +93,5 @@ LinkedIn : www.linkedin.com/in/suvam-dutta
 ---
 
 **If you like this project**
+
 Give it a ⭐ on GitHub!
