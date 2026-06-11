@@ -59,7 +59,7 @@
 Screenshots/Page 1.png
 
 ### Vehicle Type Analysis
-![Vehicle Type](screenshots/vehicle_type.png)
+[![Vehicle Type](screenshots/vehicle_type.png)](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%201.png)
 
 ### Revenue Analysis
 ![Revenue](screenshots/revenue.png)
