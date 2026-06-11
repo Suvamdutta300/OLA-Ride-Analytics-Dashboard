@@ -68,7 +68,7 @@
 ![Cancellation](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%204.png)
 
 ### Ratings Analysis
-![Ratings](screenshots/ratings.png)
+![image alt](https://github.com/Suvamdutta300/OLA-Ride-Analytics-Dashboard/blob/main/Screenshots/Page%205.png)
 
 **Author**
 
