@@ -56,7 +56,7 @@
 **Dashboard Preview**
 
 ### Overall Dashboard
-![Overview](screenshots/overview.png)
+Screenshots/Page 1.png
 
 ### Vehicle Type Analysis
 ![Vehicle Type](screenshots/vehicle_type.png)
